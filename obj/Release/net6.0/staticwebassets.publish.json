@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Dm+M/xDQE9yBk8OJmpvQJBuj3NMgGj/GG3zbqlkFyCc=",
+  "Source": "Projeto web LH Pets versão 1",
+  "BasePath": "_content/Projeto web LH Pets versão 1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto web LH Pets versão 1\\wwwroot",
+      "Source": "Projeto web LH Pets versão 1",
+      "ContentRoot": "C:\\Users\\rapha\\Desktop\\Projeto web LH Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto web LH Pets versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rapha\\Desktop\\Projeto web LH Pets versão 1\\wwwroot\\index.html",
+      "SourceId": "Projeto web LH Pets versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rapha\\Desktop\\Projeto web LH Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto web LH Pets versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
